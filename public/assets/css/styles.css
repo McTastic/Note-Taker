@@ -20,6 +20,7 @@ body {
 .note-title {
   color: #000000;
   width: 100%;
+  padding: .75em 0 .75em;
   outline: none;
   border: none;
 }
