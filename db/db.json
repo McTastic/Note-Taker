@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "title": "Testing",
+        "text": "This is a test",
+        "id": "093b8c1d-2b0b-49bd-a294-e912a4938e1e"
+    },
+    {
+        "title": "Groceries",
+        "text": "Get groceries",
+        "id": "aab7228c-1e2b-465a-a73d-d4ad6c335be5"
+    }
+]
